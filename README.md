@@ -28,9 +28,13 @@ to provide an accessible, low-cost alternative to wearable fitness trackers.
 
 🧮 Calorie Burn Formula
 Calories burned per minute:
+
 Calories/min = (MET × Weight_kg × 3.5) / 200
+
 Where MET is dynamically assigned based on the average walking pace.
 
+
+References:
 
 [1] https://link.springer.com/chapter/10.1007/978-3-031-66336-9_12
 
